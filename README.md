@@ -1,6 +1,6 @@
 ## Hi there 👋,I'm Dan Christian
 
-- 🔭 I’m currently working on Python and react-native project and CopeCore
+- 🔭 I’m currently working on Python and react-native projects
 - 🌱 I’m currently learning React-native
 - 👯 I’m looking to collaborate on any project that has value
 - 🤔 I’m looking for help with and technical issue that i get
