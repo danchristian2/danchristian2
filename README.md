@@ -60,14 +60,5 @@
   <img src="https://streak-stats.demolab.com/?user=danchristian2&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danchristian2&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danchristian2&color=blueviolet&style=flat" alt="Profile views" />
-</p>
 
 <p align="center"><i>📫 Reach out — I'm always up for a good conversation about tech, security, or the next thing to build.</i></p>
