@@ -70,8 +70,7 @@ I care about code that holds up under pressure, systems that are easy to reason 
 <br/>
 
 <div align="center">
-
-### *"Build the thing that scales. The code just has to fit it."*
+### *"Still learning. Still building. Still figuring it out."*
 
 <br/>
 
