@@ -22,7 +22,7 @@ I care about code that holds up under pressure, systems that are easy to reason 
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=ts,python,java,go,cpp,php,js,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,python,java,go,cpp,rust,php,js,c&theme=dark" />
 
 **Backend & APIs**
 <br/>
@@ -59,7 +59,7 @@ I care about code that holds up under pressure, systems that are easy to reason 
 **Productivity**
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,jira&theme=dark" />
-
+<img src="https://cdn.simpleicons.org/slack" width="48" title="Slack" />
 
 <br/>
 
