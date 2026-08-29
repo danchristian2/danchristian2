@@ -53,11 +53,13 @@ I care about code that holds up under pressure, systems that are easy to reason 
 
 **Dev Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,bun,cursor,vscode,idea,ubuntu,postman,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,bun,vscode,idea,ubuntu,postman,redis&theme=dark" />
+<img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" title="Cursor" />
 
 **Productivity**
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,slack,jira&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,jira&theme=dark" />
+<img src="https://cdn.simpleicons.org/slack" width="48" title="Slack" />
 
 <br/>
 
