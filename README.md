@@ -59,7 +59,7 @@ I care about code that holds up under pressure, systems that are easy to reason 
 **Productivity**
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,jira&theme=dark" />
-<img src="https://cdn.simpleicons.org/slack" width="48" title="Slack" />
+
 
 <br/>
 
