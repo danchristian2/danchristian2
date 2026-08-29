@@ -31,11 +31,3 @@ My focus is on building secure, robust, scalable and intelligent applications th
 
 ---
 
-### **My not to do list**
--Lie on my profile
--Learn a language without a clear purpose
--Create conflicts😁 `if you know you know`
-
----
-
-"**Build the thing that scales. The code just has to fit it.**"
