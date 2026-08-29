@@ -1,11 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Engineer+%26+Problem+Solver;I+build+things+that+scale;Secure+%C2%B7+Robust+%C2%B7+Intelligent" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=danchristian2&style=flat-square&color=00D9FF" alt="profile views" />
-<img src="https://img.shields.io/github/followers/danchristian2?style=flat-square&color=00D9FF&label=Followers" alt="followers" />
+# Engineer &amp; Problem Solver
 
 </div>
 
@@ -63,21 +58,6 @@ I care about code that holds up under pressure, systems that are easy to reason 
 **Productivity**
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,slack,jira&theme=dark" />
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=danchristian2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchristian2&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danchristian2&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <br/>
 
